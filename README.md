@@ -1,4 +1,4 @@
-# PROYECTIL MEGA SHIELD V1.0 REV B
+# PROYECTIL MEGA SHIELD 
 ## HW KICAD PCB:  Proyecto :  Cliente: 
  
 #### GENERAL
