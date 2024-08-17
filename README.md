@@ -16,9 +16,7 @@
  <tr>
  <td>NOMBRE DE PCB:</td>
  <td>PMX-MEG001 </td>
- <tr>
- <td>VERSIÓN: </td>
- <td>1.0.0 REV B</td>
+
  <tr>
     <td>RESUMEN: </td>
  <td>
