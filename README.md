@@ -20,13 +20,7 @@
  <td>VERSIÓN: </td>
  <td>1.0.0 REV B</td>
  <tr>
- <td>AUTOR: </td>
- <td>Misael</td>
- <tr>
- <td>CAMBIOS DE VERSIÓN: </td>
- <td>Misael</td>
-   <tr>
-   <td>RESUMEN: </td>
+    <td>RESUMEN: </td>
  <td>
  
   - Material Base:       FR-4<br>
@@ -39,9 +33,10 @@
  </td>
  </table>
 
- | GERBER FILE | [GERBER](https://github.com/ProyectilMx/main/Fabricacion/gerber)|
- |------| --- |
+
+
  |**ESQUEMATICO** | [ESQUEMATICO](Nombre_del_pcb/README.md)|
+  |------| --- |
  
  |  **Issues**                                             | 
  | --------------------------------------------------      | 
