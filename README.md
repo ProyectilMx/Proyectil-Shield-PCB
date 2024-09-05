@@ -44,10 +44,12 @@
 
 ### PCB
 
+## REV A
 ![image](https://github.com/ProyectilMx/Mega-Shield/assets/40368863/c0ab3b0e-cef1-4219-99a1-0d15f310a8af)
-
 ![image](https://github.com/ProyectilMx/Mega-Shield/assets/40368863/98e131aa-cfa5-4529-ba91-bd925cba1724)
+## REV B
+![megaShield_rev_b_t](https://github.com/user-attachments/assets/6712250f-5ce9-4bed-affb-b683a9f51f8e)
+![megaShield_rev_b_t_2](https://github.com/user-attachments/assets/e7c559bc-a69f-42de-8452-f11f54cd7d7b)
 
-![image](https://github.com/ProyectilMx/Mega-Shield/assets/40368863/520c1a64-eb2a-44a4-9387-930eb2e7e1b3)
-![Shield_sf](https://github.com/ProyectilMx/Mega-Shield/assets/40368863/f6d5acec-0c26-47e2-9041-0db8c61dcaa0)
+
 
