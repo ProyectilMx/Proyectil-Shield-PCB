@@ -133,7 +133,7 @@
  </td>
  </table>
 
- |[Dimenciones](Nombre_del_pcb/README.md)|
+ |[Dimenciones](PicoShieldx/picoShieldx_v1.0.0_page-0001.jpg)|
   |----- |
  
  |  **Comentarios**                                             | 
