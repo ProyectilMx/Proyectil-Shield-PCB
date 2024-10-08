@@ -1,7 +1,13 @@
-# PROYECTIL MEGA SHIELD 
-## HW KICAD PCB:  Proyecto :  Cliente: 
- 
-#### GENERAL
+# PROYECTIL HW SHIELDX
+### ÍNDICE
+
++ MEGA SHIELD
++ UShieldx
++ PicoShieldx
+
+## MEGA SHIELD 
+  
+##### GENERAL
  
  <table>
  <tr>
@@ -51,5 +57,8 @@
 ![megaShield_rev_b_t](https://github.com/user-attachments/assets/6712250f-5ce9-4bed-affb-b683a9f51f8e)
 ![megaShield_rev_b_t_2](https://github.com/user-attachments/assets/e7c559bc-a69f-42de-8452-f11f54cd7d7b)
 
+## UShiledx
+
+## PicoShieldx
 
 
