@@ -105,7 +105,7 @@
  <td>OCT 2024</td>
  <tr>
  <td>NOMBRE DE PCB:</td>
- <td>PMX-RS0001 </td>
+ <td>PMX-RPS0001 </td>
 
  <tr>
     <td>RESUMEN: </td>
