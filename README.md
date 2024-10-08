@@ -59,6 +59,66 @@
 
 ## UShiledx
 
+##### GENERAL
+ 
+ <table>
+ <tr>
+ <td>CLIENTE: </td>
+ <td> Proyectil Mx </td>
+ <tr>
+ <td>PROYECTO: </td>
+ <td>UShieldx </td>
+ <tr>
+ <td>FECHA:</td>
+ <td>OCT 2024</td>
+ <tr>
+ <td>NOMBRE DE PCB:</td>
+ <td>PMX-US0001 </td>
+
+ <tr>
+    <td>RESUMEN: </td>
+ <td>
+ 
+  - Material Base:       FR-4<br>
+  - Layers:              2   <br>
+  - Dimensions:        81 x 102 (mm)<br>
+  - PCB Thickness:                                           1.6      ( mm)
+  - PCB Color:      Black                                              
+ 
+                                                               
+ </td>
+ </table>
+
 ## PicoShieldx
+
+##### GENERAL
+ 
+ <table>
+ <tr>
+ <td>CLIENTE: </td>
+ <td> Proyectil Mx </td>
+ <tr>
+ <td>PROYECTO: </td>
+ <td>PicoShieldx </td>
+ <tr>
+ <td>FECHA:</td>
+ <td>OCT 2024</td>
+ <tr>
+ <td>NOMBRE DE PCB:</td>
+ <td>PMX-RS0001 </td>
+
+ <tr>
+    <td>RESUMEN: </td>
+ <td>
+ 
+  - Material Base:       FR-4<br>
+  - Layers:              2   <br>
+  - Dimensions:        72.4 x 101.5 (mm)<br>
+  - PCB Thickness:                                           1.6      ( mm)
+  - PCB Color:      Black                                              
+ 
+                                                               
+ </td>
+ </table>
 
 
