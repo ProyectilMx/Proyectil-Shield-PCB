@@ -91,7 +91,7 @@
  </table>
 
  + [Dimenciones](UShieldx/plano_ushield_page-0001.jpg)
- + [Modelo 3D](UShieldx/3D models)
+ + [Modelo 3D](https://github.com/ProyectilMx/Proyectil-Shield-PCB/tree/main/UShieldx/3D%20models)
 
  
  |  **Comentarios**                                             | 
@@ -135,7 +135,7 @@
  </table>
 
  + [Dimenciones](PicoShieldx/picoShieldx_v1.0.0_page-0001.jpg)
- + [Modelo 3D](PicoShieldx/3D models)
+ + [Modelo 3D](https://github.com/ProyectilMx/Proyectil-Shield-PCB/tree/main/PicoShieldx/3D%20models)
   
  
  |  **Comentarios**                                             | 
