@@ -90,6 +90,9 @@
  </td>
  </table>
 
+![PMX-US_3d1](https://github.com/user-attachments/assets/7117117d-f04b-4563-96b0-8edf5a254865)
+![PMX-US0001_top](https://github.com/user-attachments/assets/ca9c3841-19d2-46cd-9e68-a2ef980946cf)
+
 ## PicoShieldx
 
 ##### GENERAL
