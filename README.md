@@ -1,9 +1,10 @@
 # PROYECTIL HW SHIELDX
 ### ÍNDICE
 
-+ MEGA SHIELD
-+ UShieldx
-+ PicoShieldx
++ [Mega Shield](#MEGA-SHIELD).
++ [UShieldx](#UShieldx)
++ [PicoShieldx](PicoShieldx)
+
 
 ## MEGA SHIELD 
   
