@@ -40,12 +40,12 @@
 
 
 
- |**ESQUEMATICO** | [ESQUEMATICO](Nombre_del_pcb/README.md)|
-  |------| --- |
+ |[Dimenciones](Nombre_del_pcb/README.md)|
+  |----- |
  
- |  **Issues**                                             | 
+ |  **Comentarios**                                             | 
  | --------------------------------------------------      | 
- | *Escribe aquí los problemas que pueda tener el diseño*  |
+ |   |
  | *                                                     * |
 
 
@@ -90,6 +90,14 @@
  </td>
  </table>
 
+ |[Dimenciones](Nombre_del_pcb/README.md)|
+  |----- |
+ 
+ |  **Comentarios**                                             | 
+ | --------------------------------------------------      | 
+ |   |
+ | *                                                     * |
+ 
 ![PMX-US_3d1](https://github.com/user-attachments/assets/7117117d-f04b-4563-96b0-8edf5a254865)
 ![PMX-US0001_top](https://github.com/user-attachments/assets/ca9c3841-19d2-46cd-9e68-a2ef980946cf)
 
@@ -124,6 +132,14 @@
                                                                
  </td>
  </table>
+
+ |[Dimenciones](Nombre_del_pcb/README.md)|
+  |----- |
+ 
+ |  **Comentarios**                                             | 
+ | --------------------------------------------------      | 
+ |   |
+ | *                                                     * |
 
 
 ![PMX-RPS001_top2](https://github.com/user-attachments/assets/b55d2777-dd35-410b-a170-c190f7b8dee3)
