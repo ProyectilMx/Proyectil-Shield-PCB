@@ -40,8 +40,8 @@
 
 
 
- |[Dimenciones](Nombre_del_pcb/README.md)|
-  |----- |
+ [Plano](Nombre_del_pcb/README.md)
+ 
  
  |  **Comentarios**                                             | 
  | --------------------------------------------------      | 
@@ -90,7 +90,7 @@
  </td>
  </table>
 
- + [Dimenciones](UShieldx/plano_ushield_page-0001.jpg)
+ + [Plano](UShieldx/plano_ushield_page-0001.jpg)
  + [Modelo 3D](https://github.com/ProyectilMx/Proyectil-Shield-PCB/tree/main/UShieldx/3D%20models)
 
  
@@ -134,7 +134,7 @@
  </td>
  </table>
 
- + [Dimenciones](PicoShieldx/picoShieldx_v1.0.0_page-0001.jpg)
+ + [Plano](PicoShieldx/picoShieldx_v1.0.0_page-0001.jpg)
  + [Modelo 3D](https://github.com/ProyectilMx/Proyectil-Shield-PCB/tree/main/PicoShieldx/3D%20models)
   
  
