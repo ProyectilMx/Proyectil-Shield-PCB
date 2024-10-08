@@ -90,8 +90,9 @@
  </td>
  </table>
 
- |[Dimenciones](Nombre_del_pcb/README.md)|
-  |----- |
+ + [Dimenciones](UShieldx/plano_ushield_page-0001.jpg)
+ + [Modelo 3D]()
+
  
  |  **Comentarios**                                             | 
  | --------------------------------------------------      | 
@@ -133,8 +134,9 @@
  </td>
  </table>
 
- |[Dimenciones](PicoShieldx/picoShieldx_v1.0.0_page-0001.jpg)|
-  |----- |
+ + [Dimenciones](PicoShieldx/picoShieldx_v1.0.0_page-0001.jpg)
+ + [Modelo 3D]()
+  
  
  |  **Comentarios**                                             | 
  | --------------------------------------------------      | 
