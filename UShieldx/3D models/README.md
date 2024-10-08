@@ -1,9 +1,8 @@
-# MODELOS 3D
+# MODELO 3D
 ## Archivos :
 
 + Archivo .stp del pcb para integrar en diseños
-+ Archivo para impresión 3D de la base del pcb 
++ Archivo para impresión 3D 
 
- ![image](https://github.com/user-attachments/assets/c9961e61-2924-4580-8839-ebe663f10132)
-
+![image](https://github.com/user-attachments/assets/2a655810-8c29-4fb4-a058-725f876b6a6c)
 
