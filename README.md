@@ -90,7 +90,7 @@
  </td>
  </table>
 
- + [Hoja Técnica](UShieldx/plano_ushield_page-0001.jpg)
+ + [Hoja Técnica](UShieldx/UShieldx_Datasheet.pdf)
  + [Plano](UShieldx/plano_ushield_page-0001.jpg)
  + [Modelo 3D](https://github.com/ProyectilMx/Proyectil-Shield-PCB/tree/main/UShieldx/3D%20models)
 
