@@ -151,3 +151,5 @@
 ![PMX-RPS001_top1](https://github.com/user-attachments/assets/69df9e31-f144-4ff4-ac99-6375d28140d6)
 
 ## MetaSphinx
+
+ + [Hoja Técnica](UShieldx/UShieldx%20Datasheet.pdf)
