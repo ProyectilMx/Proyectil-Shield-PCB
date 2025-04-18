@@ -152,4 +152,4 @@
 
 ## MetaSphinx
 
- + [Hoja Técnica](UShieldx/UShieldx%20Datasheet.pdf)
+ + [Hoja Técnica](https://github.com/ProyectilMx/Proyectil-Shield-PCB/blob/main/Meta-Sphinx/MetaSphinx%20Datasheet.pdf)
