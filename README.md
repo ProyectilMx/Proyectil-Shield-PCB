@@ -5,6 +5,7 @@
 + [UShieldx](#UShieldx)
 + [PicoShieldx](#PicoShieldx)
 + [Meta](#MetaSphinx)
++ [ESP32](#Esp32Shield)
 
 
 ## MEGA SHIELD 
