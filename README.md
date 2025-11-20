@@ -153,3 +153,52 @@
 ## MetaSphinx
 
  + [Hoja Técnica](https://github.com/ProyectilMx/Proyectil-Shield-PCB/blob/main/Meta-Sphinx/MetaSphinx%20Datasheet.pdf)
+
+
+## Esp32Shield
+
+##### GENERAL
+ 
+ <table>
+ <tr>
+ <td>CLIENTE: </td>
+ <td> Proyectil Mx </td>
+ <tr>
+ <td>PROYECTO: </td>
+ <td>Esp32Shield </td>
+ <tr>
+ <td>FECHA:</td>
+ <td>OCT 2025</td>
+ <tr>
+ <td>NOMBRE DE PCB:</td>
+ <td>PMX-ESPS0001 </td>
+
+ <tr>
+    <td>RESUMEN: </td>
+ <td>
+ 
+  - Material Base:       FR-4<br>
+  - Layers:              2   <br>
+  - Dimensions:        85.8 x 91.2 (mm)<br>
+  - PCB Thickness:                                           1.6      ( mm)
+  - PCB Color:      Black                                              
+ 
+                                                               
+ </td>
+ </table>
+
+ + [Hoja Técnica](PicoShieldx/PicoShieldx%20Datasheet%20-%20Rev_2.pdf)
+ + [Plano](PicoShieldx/picoShieldx_v1.0.0_page-0001.jpg)
+ + [Modelo 3D](https://github.com/ProyectilMx/Proyectil-Shield-PCB/tree/main/PicoShieldx/3D%20models)
+  
+ 
+ |  **Comentarios**                                             | 
+ | --------------------------------------------------      | 
+ |   |
+ | *                                                     * |
+
+
+![PMX-RPS001_top2](https://github.com/user-attachments/assets/b55d2777-dd35-410b-a170-c190f7b8dee3)
+![PMX-RPS001_top1](https://github.com/user-attachments/assets/69df9e31-f144-4ff4-ac99-6375d28140d6)
+
+ 
