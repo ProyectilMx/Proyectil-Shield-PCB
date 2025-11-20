@@ -198,7 +198,7 @@
  | *                                                     * |
 
 
-![PMX-RPS001_top2](https://github.com/user-attachments/assets/b55d2777-dd35-410b-a170-c190f7b8dee3)
-![PMX-RPS001_top1](https://github.com/user-attachments/assets/69df9e31-f144-4ff4-ac99-6375d28140d6)
+![PMX-RPS001_top2](https://github.com/ProyectilMx/Proyectil-Shield-PCB/blob/main/esp32-Shield/espShield32_top.png)
+![PMX-RPS001_top1](https://github.com/ProyectilMx/Proyectil-Shield-PCB/blob/main/esp32-Shield/shield.png)
 
  
