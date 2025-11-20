@@ -189,7 +189,7 @@
  </table>
 
  + [Hoja Técnica](https://github.com/ProyectilMx/Proyectil-Shield-PCB/blob/main/esp32-Shield/esp32Shield%20datasheet%20-%20Sheet1.pdf)
- + [Plano](PicoShieldx/picoShieldx_v1.0.0_page-0001.jpg)
+ + [Plano](esp32-Shield/plano_esp32.pdf)
  + [Modelo 3D](https://github.com/ProyectilMx/Proyectil-Shield-PCB/tree/main/PicoShieldx/3D%20models)
   
  
